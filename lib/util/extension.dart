@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:http/http.dart';
-import '../model/data/api.dart';
+import '../data/api.dart';
 import '../view/res/strings.dart';
 
 extension Margin on num {

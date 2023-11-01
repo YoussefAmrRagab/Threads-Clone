@@ -1,7 +1,7 @@
 import '../../view/res/strings.dart';
-import '../models/comment.dart';
-import '../models/post.dart';
-import '../models/user.dart';
+import '../model/comment.dart';
+import '../model/post.dart';
+import '../model/user.dart';
 import 'api.dart';
 
 class Repository {

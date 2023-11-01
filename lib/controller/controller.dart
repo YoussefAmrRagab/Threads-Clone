@@ -1,8 +1,8 @@
 import 'package:get/get.dart';
-import '../model/usecase/usecases.dart';
-import '../model/models/post.dart';
+import '../usecase/usecases.dart';
+import '../model/post.dart';
 import '../view/res/strings.dart';
-import '../model/models/comment.dart';
+import '../model/comment.dart';
 
 class Controller extends GetxController {
   late final UseCases _useCases;

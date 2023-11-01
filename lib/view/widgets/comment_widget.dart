@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '../../model/models/comment.dart';
+import '../../model/comment.dart';
 
 class CommentWidget extends StatelessWidget {
   CommentWidget({super.key, required this.comment});

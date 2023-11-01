@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../../model/models/post.dart';
+import '../../model/post.dart';
 import '../../view/res/strings.dart';
 import '../../util/extension.dart';
 import 'custom_text_button.dart';

@@ -1,9 +1,9 @@
 import 'package:get/get.dart';
-import '../model/usecase/usecases.dart';
+import '../usecase/usecases.dart';
 
 import '../controller/controller.dart';
-import '../model/data/api.dart';
-import '../model/data/repository.dart';
+import '../data/api.dart';
+import '../data/repository.dart';
 
 class Binding extends Bindings {
   @override

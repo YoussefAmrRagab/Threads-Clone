@@ -1,10 +1,10 @@
 import 'dart:math';
 
-import '../../model/data/repository.dart';
+import '../../data/repository.dart';
 
-import '../models/comment.dart';
-import '../models/post.dart';
-import '../models/user.dart';
+import '../model/comment.dart';
+import '../model/post.dart';
+import '../model/user.dart';
 
 class UseCases {
   late final Repository _repository;
